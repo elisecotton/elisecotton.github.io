@@ -1,0 +1,32 @@
+{
+    "version": "1",
+    "defaultLanguage": "en",
+    "defaultAvailabilityCountries": [
+        "us"
+    ],
+    "assets": [
+        {
+            "id": "LET-189693494",
+            "type": "livestream",
+            "externalIds": [
+                {
+                    "id": 104846,
+                    "channelName": "CBS News 24/7",
+                    "source": "GRACENOTE_STATION_ID"
+                }
+            ],
+            "content": {
+                "playOptions": [
+                    {
+                        "playId": "LET-189693494",
+                        "license": "free",
+                        "quality": "FHD"
+                    }
+                ]
+            },
+            "tags": [
+                "CBS News"
+            ]
+        }
+    ]
+}
