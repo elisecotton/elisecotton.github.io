@@ -1,0 +1,1579 @@
+{
+  "version": "1",
+  "defaultLanguage": "en",
+  "defaultAvailabilityCountries": [
+    "us"
+  ],
+  "assets": [
+    {
+      "id": "cbs-mornings",
+      "type": "series",
+      "titles": [
+        {
+          "value": "CBS Mornings",
+          "language": "en"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Get a jump on the latest news, and wake up with the most important domestic and international stories of the day.",
+          "language": "en"
+        }
+      ],
+      "releaseDate": "2025-02-20",
+      "genres": [
+        "news"
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TVG"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://sportshub.cbsistatic.com/i/2024/09/12/a69ff677-1f48-43dd-9c62-81ab452293b2/image-1726181003604.png",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "FHD",
+            "playId": "cbs-mornings",
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "cbs-evening-news",
+      "type": "series",
+      "titles": [
+        {
+          "value": "CBS Evening News",
+          "language": "en"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Weeknights 6:30pm ET on CBS, Streaming 10pm ET",
+          "language": "en"
+        }
+      ],
+      "releaseDate": "2025-02-19",
+      "genres": [
+        "news"
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TVG"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://sportshub.cbsistatic.com/i/2025/01/24/45149ac8-9bb5-4cf9-b858-a11802f9add9/image-1737759708249.png",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "FHD",
+            "playId": "cbs-evening-news",
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "cbs-evening-news-season-2025",
+      "type": "season",
+      "titles": [
+        {
+          "value": "CBS Evening News - Season 2025",
+          "language": "en"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Weeknights 6:30pm ET on CBS, Streaming 10pm ET",
+          "language": "en"
+        }
+      ],
+      "releaseDate": "2025-02-19",
+      "genres": [
+        "news"
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TVG"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://sportshub.cbsistatic.com/i/2025/01/24/45149ac8-9bb5-4cf9-b858-a11802f9add9/image-1737759708249.png",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "seasonInfo": {
+        "seriesId": "cbs-evening-news",
+        "seasonNumber": 2025
+      }
+    },
+    {
+      "id": "america-decides",
+      "type": "series",
+      "titles": [
+        {
+          "value": "America Decides",
+          "language": "en"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "CBS News reporters meet with newsmakers from across the political spectrum to discuss new angles and share fact-based analysis.",
+          "language": "en"
+        }
+      ],
+      "releaseDate": "2025-02-19",
+      "genres": [
+        "news"
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TVG"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://sportshub.cbsistatic.com/i/2024/09/04/1da5d0b6-8fe3-4876-b89b-03f78412b9d5/image-1725485405816.png",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "FHD",
+            "playId": "america-decides",
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "america-decides-season-2025",
+      "type": "season",
+      "titles": [
+        {
+          "value": "America Decides - Season 2025",
+          "language": "en"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "CBS News reporters meet with newsmakers from across the political spectrum to discuss new angles and share fact-based analysis.",
+          "language": "en"
+        }
+      ],
+      "releaseDate": "2025-02-19",
+      "genres": [
+        "news"
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TVG"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://sportshub.cbsistatic.com/i/2024/09/04/1da5d0b6-8fe3-4876-b89b-03f78412b9d5/image-1725485405816.png",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "seasonInfo": {
+        "seriesId": "america-decides",
+        "seasonNumber": 2025
+      }
+    },
+    {
+      "id": "cbs-mornings-season-2025",
+      "type": "season",
+      "titles": [
+        {
+          "value": "CBS Mornings - Season 2025",
+          "language": "en"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Get a jump on the latest news, and wake up with the most important domestic and international stories of the day.",
+          "language": "en"
+        }
+      ],
+      "releaseDate": "2025-02-19",
+      "genres": [
+        "news"
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TVG"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://sportshub.cbsistatic.com/i/2024/09/12/a69ff677-1f48-43dd-9c62-81ab452293b2/image-1726181003604.png",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "seasonInfo": {
+        "seriesId": "cbs-mornings",
+        "seasonNumber": 2025
+      }
+    },
+    {
+      "id": "60-minutes",
+      "type": "series",
+      "titles": [
+        {
+          "value": "60 Minutes",
+          "language": "en"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "America's #1 television news program, presents hard-hitting investigative reports, newsmaker interviews, and in-depth profiles.",
+          "language": "en"
+        }
+      ],
+      "releaseDate": "2025-02-17",
+      "genres": [
+        "news"
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TVG"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://sportshub.cbsistatic.com/i/2024/09/04/91d12f9c-8ae5-4bf5-a4b6-cc0c493959a0/image-1725485394061.png",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "FHD",
+            "playId": "60-minutes",
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "60-minutes-season-57",
+      "type": "season",
+      "titles": [
+        {
+          "value": "60 Minutes - Season 57",
+          "language": "en"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "America's #1 television news program, presents hard-hitting investigative reports, newsmaker interviews, and in-depth profiles.",
+          "language": "en"
+        }
+      ],
+      "releaseDate": "2025-02-17",
+      "genres": [
+        "news"
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TVG"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://sportshub.cbsistatic.com/i/2024/09/04/91d12f9c-8ae5-4bf5-a4b6-cc0c493959a0/image-1725485394061.png",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "seasonInfo": {
+        "seriesId": "60-minutes",
+        "seasonNumber": 57
+      }
+    },
+    {
+      "id": "face-the-nation",
+      "type": "series",
+      "titles": [
+        {
+          "value": "Face the Nation",
+          "language": "en"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Face the Nation moderator Margaret Brennan delivers interviews with newsmakers, roundtable discussions, and analysis on the top issues of the day.",
+          "language": "en"
+        }
+      ],
+      "releaseDate": "2025-02-16",
+      "genres": [
+        "news"
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TVG"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://sportshub.cbsistatic.com/i/2024/09/04/d86cb7bc-3b76-4b5c-8976-605ffc6b04bd/image-1725485438069.png",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "FHD",
+            "playId": "face-the-nation",
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "face-the-nation-season-2025",
+      "type": "season",
+      "titles": [
+        {
+          "value": "Face the Nation - Season 2025",
+          "language": "en"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Face the Nation moderator Margaret Brennan delivers interviews with newsmakers, roundtable discussions, and analysis on the top issues of the day.",
+          "language": "en"
+        }
+      ],
+      "releaseDate": "2025-02-16",
+      "genres": [
+        "news"
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TVG"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://sportshub.cbsistatic.com/i/2024/09/04/d86cb7bc-3b76-4b5c-8976-605ffc6b04bd/image-1725485438069.png",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "seasonInfo": {
+        "seriesId": "face-the-nation",
+        "seasonNumber": 2025
+      }
+    },
+    {
+      "id": "987b9f2b-77bc-4fff-9934-e9312f32c490",
+      "type": "episode",
+      "titles": [
+        {
+          "value": "Transportation secretary says \"it's safe to fly, of course\"",
+          "language": "en"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "In a CBS News exclusive, U.S. Transportation Secretary Sean Duffy said people should not be afraid to fly amid a string of aviation incidents this year. He also called for quick investments in FAA systems.",
+          "language": "en"
+        }
+      ],
+      "releaseDate": "2025-02-20",
+      "genres": [
+        "news"
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TVG"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/2025/02/20/90f35d73-93d8-4222-8ec5-8824083e1203/0220-cmo-duffy.jpg",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "durationInSeconds": 291,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "FHD",
+            "playId": "987b9f2b-77bc-4fff-9934-e9312f32c490",
+            "availabilityStartTimeStamp": 1740067560000,
+            "availabilityEndTimeStamp": 1771608220000,
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            }
+          }
+        ]
+      },
+      "episodeInfo": {
+        "seriesId": "cbs-mornings",
+        "episodeNumber": "20250220160600"
+      }
+    },
+    {
+      "id": "5632aba3-e8b6-4046-8c8a-b41ad545dae6",
+      "type": "episode",
+      "titles": [
+        {
+          "value": "Expert on how to get started with investing",
+          "language": "en"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "A new survey from Bankrate finds that the stock market is the preferred choice for long-term investing, though 21% of Americans avoid it due to intimidation. CBS News business analyst Jill Schlesinger offers tips on how to get started with investing.",
+          "language": "en"
+        }
+      ],
+      "releaseDate": "2025-02-20",
+      "genres": [
+        "news"
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TVG"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/2025/02/20/80baed15-68d3-4951-954e-4b53fbcfebf9/0220-plus-invest.jpg",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "durationInSeconds": 304,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "FHD",
+            "playId": "5632aba3-e8b6-4046-8c8a-b41ad545dae6",
+            "availabilityStartTimeStamp": 1740067020000,
+            "availabilityEndTimeStamp": 1771608220000,
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            }
+          }
+        ]
+      },
+      "episodeInfo": {
+        "seriesId": "cbs-mornings",
+        "episodeNumber": "20250220155700"
+      }
+    },
+    {
+      "id": "4561be2c-404c-48ce-a975-811ef79f22e6",
+      "type": "episode",
+      "titles": [
+        {
+          "value": "Hamas returns the bodies of four Israeli hostages",
+          "language": "en"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Hamas released the bodies of four Israeli hostages on Thursday, said to include a mother and her two young children who have long been feared dead. CBS News' Debora Patta has more.",
+          "language": "en"
+        }
+      ],
+      "releaseDate": "2025-02-20",
+      "genres": [
+        "news"
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TVG"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/2025/02/20/c6606f2b-60f5-449a-b1b8-e962640597e0/0220-cmo-patta.jpg",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "durationInSeconds": 112,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "FHD",
+            "playId": "4561be2c-404c-48ce-a975-811ef79f22e6",
+            "availabilityStartTimeStamp": 1740066780000,
+            "availabilityEndTimeStamp": 1771608220000,
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            }
+          }
+        ]
+      },
+      "episodeInfo": {
+        "seriesId": "cbs-mornings",
+        "episodeNumber": "20250220155300"
+      }
+    },
+    {
+      "id": "5c7bc4dd-bedb-49a3-9464-40d79b515070",
+      "type": "episode",
+      "titles": [
+        {
+          "value": "President of the National Urban League on suing Trump administration over anti-DEI orders",
+          "language": "en"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "The National Urban League and other organizations argue that Trump's executive orders to end diversity, equity, and inclusion programs are unconstitutional, falsely asserting that DEI initiatives undermine merit and hard work.  Marc Morial, president and CEO of the National Urban League, which filed the lawsuit and is the nation's largest historic civil rights and urban advocacy organization, joins \"CBS Mornings Plus.\"",
+          "language": "en"
+        }
+      ],
+      "releaseDate": "2025-02-20",
+      "genres": [
+        "news"
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TVG"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/2025/02/20/01cbece7-4c9e-4023-bef8-4b76483716aa/0220-plus-urban.jpg",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "durationInSeconds": 443,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "FHD",
+            "playId": "5c7bc4dd-bedb-49a3-9464-40d79b515070",
+            "availabilityStartTimeStamp": 1740066120000,
+            "availabilityEndTimeStamp": 1771608220000,
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            }
+          }
+        ]
+      },
+      "episodeInfo": {
+        "seriesId": "cbs-mornings",
+        "episodeNumber": "20250220154200"
+      }
+    },
+    {
+      "id": "c36c576c-2b8b-45eb-9c29-40769f18f415",
+      "type": "episode",
+      "titles": [
+        {
+          "value": "Exclusive discounts from CBS Mornings Deals",
+          "language": "en"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "On this edition of CBS Mornings Deals, we show you items that might just become essentials in your everyday life. Visit cbsdeals.com to take advantage of these exclusive deals today. CBS earns commissions on purchases made through cbsdeals.com.",
+          "language": "en"
+        }
+      ],
+      "releaseDate": "2025-02-20",
+      "genres": [
+        "news"
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TVG"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/2025/02/20/6e62ff01-cafc-45cc-a87f-598e4b1a6ee7/0220-cmo-deals.jpg",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "durationInSeconds": 320,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "FHD",
+            "playId": "c36c576c-2b8b-45eb-9c29-40769f18f415",
+            "availabilityStartTimeStamp": 1740065700000,
+            "availabilityEndTimeStamp": 1771608220000,
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            }
+          }
+        ]
+      },
+      "episodeInfo": {
+        "seriesId": "cbs-mornings",
+        "episodeNumber": "20250220153500"
+      }
+    },
+    {
+      "id": "167593c2-6efd-4506-a9bb-fbe44a8f7511",
+      "type": "episode",
+      "titles": [
+        {
+          "value": "NATO drills underscore European fears about waning American support",
+          "language": "en"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "As NATO conducts large-scale military exercises, European allies worry about the future of U.S. backing amid President Trump's attacks on Ukraine and its leadership.",
+          "language": "en"
+        }
+      ],
+      "releaseDate": "2025-02-20",
+      "genres": [
+        "news"
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TVG"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/2025/02/20/7e0c9df1-1a22-4794-bcfa-431ef616a89d/0220-plus-nato.jpg",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "durationInSeconds": 137,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "FHD",
+            "playId": "167593c2-6efd-4506-a9bb-fbe44a8f7511",
+            "availabilityStartTimeStamp": 1740065580000,
+            "availabilityEndTimeStamp": 1771608220000,
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            }
+          }
+        ]
+      },
+      "episodeInfo": {
+        "seriesId": "cbs-mornings",
+        "episodeNumber": "20250220153300"
+      }
+    },
+    {
+      "id": "d24d1ef7-fd51-4315-99a8-19a5675c952c",
+      "type": "episode",
+      "titles": [
+        {
+          "value": "Cast of \"Beyond the Gates\" on making history as first Black daytime soap in 35 years",
+          "language": "en"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "CBS's new drama \"Beyond the Gates\" is the first daytime soap opera greenlit in 25 years—and the first Black-led soap in over three decades. The series follows the powerful Dupree family navigating life in an affluent Maryland suburb. Tamara Tunie and Daphnée Duplaix join \"CBS Mornings.\"",
+          "language": "en"
+        }
+      ],
+      "releaseDate": "2025-02-20",
+      "genres": [
+        "news"
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TVG"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/2025/02/20/f4965435-613b-49c8-b875-86921e2185fc/0220-cmo-gate.jpg",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "durationInSeconds": 315,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "FHD",
+            "playId": "d24d1ef7-fd51-4315-99a8-19a5675c952c",
+            "availabilityStartTimeStamp": 1740065340000,
+            "availabilityEndTimeStamp": 1771608220000,
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            }
+          }
+        ]
+      },
+      "episodeInfo": {
+        "seriesId": "cbs-mornings",
+        "episodeNumber": "20250220152900"
+      }
+    },
+    {
+      "id": "24c9743f-d67b-469f-a1d3-003366f90220",
+      "type": "episode",
+      "titles": [
+        {
+          "value": "2/19: CBS Evening News",
+          "language": "en"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Global implications of Trump's public criticism of Zelenskyy; Historic SS United States makes final voyage before being turned into reef",
+          "language": "en"
+        }
+      ],
+      "releaseDate": "2025-02-19",
+      "genres": [
+        "news"
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TVG"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/2025/02/20/d1669a46-eaef-4457-a5ac-18469951f613/0219-en-full-3550788-640x360.jpg",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "durationInSeconds": 1229,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "FHD",
+            "playId": "24c9743f-d67b-469f-a1d3-003366f90220",
+            "availabilityStartTimeStamp": 1740007800000,
+            "availabilityEndTimeStamp": 1740612600000,
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            }
+          }
+        ]
+      },
+      "episodeInfo": {
+        "seriesId": "cbs-evening-news",
+        "seasonNumber": 2025,
+        "episodeNumber": 46
+      }
+    },
+    {
+      "id": "7f53b850-de8f-4734-ad34-01cfec525f8f",
+      "type": "episode",
+      "titles": [
+        {
+          "value": "2/19: America Decides",
+          "language": "en"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "President Trump calls Zelenskyy a “dictator without elections”; What would happen if Canada became the 51st state",
+          "language": "en"
+        }
+      ],
+      "releaseDate": "2025-02-19",
+      "genres": [
+        "news"
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TVG"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/2025/02/20/2476987a-88bd-483d-8fb0-a08043aa41d4/0219-ad-full-3550494-640x360.jpg",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "durationInSeconds": 2663,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "FHD",
+            "playId": "7f53b850-de8f-4734-ad34-01cfec525f8f",
+            "availabilityStartTimeStamp": 1740002400000,
+            "availabilityEndTimeStamp": 4733528400000,
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            }
+          }
+        ]
+      },
+      "episodeInfo": {
+        "seriesId": "america-decides",
+        "seasonNumber": 2025,
+        "episodeNumber": 33
+      }
+    },
+    {
+      "id": "4120cbfa-734c-4e35-a624-485b8abbb7aa",
+      "type": "episode",
+      "titles": [
+        {
+          "value": "2/19: CBS Morning News",
+          "language": "en"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Elon Musk defends DOGE's cost-cutting efforts; How the CDC's \"disease detectives\" respond during public health emergencies.",
+          "language": "en"
+        }
+      ],
+      "releaseDate": "2025-02-19",
+      "genres": [
+        "news"
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TVG"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/2025/02/19/7b2247c2-e86c-4ed7-98de-a2ff20a0c192/0219-cbsnm-full-3548905-640x360.jpg",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "durationInSeconds": 2098,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "FHD",
+            "playId": "4120cbfa-734c-4e35-a624-485b8abbb7aa",
+            "availabilityStartTimeStamp": 1739966400000,
+            "availabilityEndTimeStamp": 4733528400000,
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            }
+          }
+        ]
+      },
+      "episodeInfo": {
+        "seriesId": "cbs-mornings",
+        "seasonNumber": 2025,
+        "episodeNumber": 34
+      }
+    },
+    {
+      "id": "d14b2fa7-ecd4-4e01-ba93-072d0c78c107",
+      "type": "episode",
+      "titles": [
+        {
+          "value": "2/18: America Decides",
+          "language": "en"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Saudi Arabia hosts peace talks for Ukraine war; Voters respond to mass layoffs at federal agencies",
+          "language": "en"
+        }
+      ],
+      "releaseDate": "2025-02-18",
+      "genres": [
+        "news"
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TVG"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/2025/02/19/bdd0cdf4-0d37-452d-b606-8c250f838ea3/0218-ad-full-3547602-640x360.jpg",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "durationInSeconds": 2651,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "FHD",
+            "playId": "d14b2fa7-ecd4-4e01-ba93-072d0c78c107",
+            "availabilityStartTimeStamp": 1739916000000,
+            "availabilityEndTimeStamp": 4733528400000,
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            }
+          }
+        ]
+      },
+      "episodeInfo": {
+        "seriesId": "america-decides",
+        "seasonNumber": 2025,
+        "episodeNumber": 32
+      }
+    },
+    {
+      "id": "3e3340f5-0110-4010-8a2b-476b1f40878c",
+      "type": "episode",
+      "titles": [
+        {
+          "value": "2/17: America Decides",
+          "language": "en"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Delta flight crash lands at Toronto International Airport; Trump administration fires more than a dozen immigration judges",
+          "language": "en"
+        }
+      ],
+      "releaseDate": "2025-02-17",
+      "genres": [
+        "news"
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TVG"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/2025/02/18/49519979-5507-469f-bf62-636bc4959fbd/0217-ad-full-3544946-640x360.jpg",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "durationInSeconds": 2362,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "FHD",
+            "playId": "3e3340f5-0110-4010-8a2b-476b1f40878c",
+            "availabilityStartTimeStamp": 1739829600000,
+            "availabilityEndTimeStamp": 4733528400000,
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            }
+          }
+        ]
+      },
+      "episodeInfo": {
+        "seriesId": "america-decides",
+        "seasonNumber": 2025,
+        "episodeNumber": 31
+      }
+    },
+    {
+      "id": "224a7fd7-0d30-4c53-9f09-986e8bcc0b76",
+      "type": "episode",
+      "titles": [
+        {
+          "value": "2/17: CBS Morning News",
+          "language": "en"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Deadly storm hits Kentucky with heavy rain and flash flooding; Beyoncé fans blame dynamic pricing for high ticket costs.",
+          "language": "en"
+        }
+      ],
+      "releaseDate": "2025-02-17",
+      "genres": [
+        "news"
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TVG"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/2025/02/17/93d483db-6c3a-4f77-a838-5301b555a7b1/0217-cbsnm-full-3543655-640x360.jpg",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "durationInSeconds": 2625,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "FHD",
+            "playId": "224a7fd7-0d30-4c53-9f09-986e8bcc0b76",
+            "availabilityStartTimeStamp": 1739793600000,
+            "availabilityEndTimeStamp": 4733528400000,
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            }
+          }
+        ]
+      },
+      "episodeInfo": {
+        "seriesId": "cbs-mornings",
+        "seasonNumber": 2025,
+        "episodeNumber": 32
+      }
+    },
+    {
+      "id": "043b6b33-7180-48f9-91fa-b6c84830d9d1",
+      "type": "episode",
+      "titles": [
+        {
+          "value": "2/16/2025: 28 Days;  Policing the Internet; Timothée Chalamet",
+          "language": "en"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "First, a look at what Trump, Musk moves on USAID could mean for other government agencies. Then, how Germany is policing the internet for hate speech. And, Timothée Chalamet: The 60 Minutes Interview.",
+          "language": "en"
+        }
+      ],
+      "releaseDate": "2025-02-17",
+      "genres": [
+        "news"
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TVG"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/2025/02/17/ad3ff9bf-b1ad-4c66-b0c0-77a7cdbddf12/60-minutes-full-episode-2-16-25-3542972-640x360.jpg",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "durationInSeconds": 2583,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "FHD",
+            "playId": "043b6b33-7180-48f9-91fa-b6c84830d9d1",
+            "availabilityStartTimeStamp": 1739750400000,
+            "availabilityEndTimeStamp": 1771217940000,
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            }
+          }
+        ]
+      },
+      "episodeInfo": {
+        "seriesId": "60-minutes",
+        "seasonNumber": 57,
+        "episodeNumber": 21
+      }
+    },
+    {
+      "id": "1302fb52-69a8-492a-81dd-d851065a81d1",
+      "type": "episode",
+      "titles": [
+        {
+          "value": "2/16: CBS Weekend News",
+          "language": "en"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Deadly flooding hits the South; Elephant seals return to California beach after population rebounds",
+          "language": "en"
+        }
+      ],
+      "releaseDate": "2025-02-16",
+      "genres": [
+        "news"
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TVG"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/2025/02/17/b917f8f1-3b31-48a8-9598-8fd0a2c2c8f5/0216-wn-full-3542987-640x360.jpg",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "durationInSeconds": 1187,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "FHD",
+            "playId": "1302fb52-69a8-492a-81dd-d851065a81d1",
+            "availabilityStartTimeStamp": 1739748600000,
+            "availabilityEndTimeStamp": 1740353400000,
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            }
+          }
+        ]
+      },
+      "episodeInfo": {
+        "seriesId": "cbs-evening-news",
+        "seasonNumber": 2025,
+        "episodeNumber": 43
+      }
+    },
+    {
+      "id": "21c2e4b1-53a3-4dc9-ae9d-9683763f438d",
+      "type": "episode",
+      "titles": [
+        {
+          "value": "2/16: Face the Nation",
+          "language": "en"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "This week on “Face the Nation with Margaret Brennan,” President Trump's national security team takes his MAGA movement to Europe. We talk to Secretary of State Marco Rubio in his first Sunday show interview since taking office.",
+          "language": "en"
+        }
+      ],
+      "releaseDate": "2025-02-16",
+      "genres": [
+        "news"
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TVG"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/2025/02/16/bda802ca-9c0d-4762-9302-9d926ca3aa44/0216-ftn-full-3542430-640x360.jpg",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "durationInSeconds": 2745,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "FHD",
+            "playId": "21c2e4b1-53a3-4dc9-ae9d-9683763f438d",
+            "availabilityStartTimeStamp": 1739719800000,
+            "availabilityEndTimeStamp": 4733528400000,
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            }
+          }
+        ]
+      },
+      "episodeInfo": {
+        "seriesId": "face-the-nation",
+        "seasonNumber": 2025,
+        "episodeNumber": 7
+      }
+    },
+    {
+      "id": "8a19639c-231c-4d3c-a56a-284b9affb76d",
+      "type": "episode",
+      "titles": [
+        {
+          "value": "2/15: CBS Weekend News",
+          "language": "en"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "California crews clean up flooding and mudslides; Jannik Sinner gets 3-month ban for failing drug tests",
+          "language": "en"
+        }
+      ],
+      "releaseDate": "2025-02-15",
+      "genres": [
+        "news"
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TVG"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/2025/02/16/8670ceff-b78e-4268-ae66-d67b65776589/0215-wn-full-3541648-640x360.jpg",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "durationInSeconds": 1240,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "FHD",
+            "playId": "8a19639c-231c-4d3c-a56a-284b9affb76d",
+            "availabilityStartTimeStamp": 1739662200000,
+            "availabilityEndTimeStamp": 1740267000000,
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            }
+          }
+        ]
+      },
+      "episodeInfo": {
+        "seriesId": "cbs-evening-news",
+        "seasonNumber": 2025,
+        "episodeNumber": 42
+      }
+    },
+    {
+      "id": "cfccc2da-a708-493b-bf84-33338aee8f4f",
+      "type": "episode",
+      "titles": [
+        {
+          "value": "Judge weighs corruption charges against New York City Mayor Eric Adams",
+          "language": "en"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "The move to dismiss federal corruption charges against New York City Mayor Eric Adams is now up to a judge. On Wednesday, the DOJ argued the case restricts the mayor's ability to help enforce President Trump's immigration policies. Adams has denied any wrongdoing.",
+          "language": "en"
+        }
+      ],
+      "releaseDate": "2025-02-20",
+      "genres": [
+        "news"
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TVG"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/2025/02/20/f1982c10-0a89-4306-bae7-649d95ff2af0/0220-cmo-ma.jpg",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "durationInSeconds": 93,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "FHD",
+            "playId": "cfccc2da-a708-493b-bf84-33338aee8f4f",
+            "availabilityStartTimeStamp": 1740065340000,
+            "availabilityEndTimeStamp": 1771607019000,
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            }
+          }
+        ]
+      },
+      "episodeInfo": {
+        "seriesId": "cbs-mornings",
+        "episodeNumber": "20250220152900"
+      }
+    },
+    {
+      "id": "b4e78b7c-e1f4-4292-a3da-99a85d6abc37",
+      "type": "episode",
+      "titles": [
+        {
+          "value": "\"A Domani Sleep\" CEO on creating sleepwear inspired by her own postpartum struggles",
+          "language": "en"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Katya Eckert, founder of \"A Domani,\" created temperature-regulating sleepwear inspired by her own postpartum struggles. Her innovative brand just won a 2025 Oprah Daily Menopause O-Ward for its fast-drying technology.",
+          "language": "en"
+        }
+      ],
+      "releaseDate": "2025-02-20",
+      "genres": [
+        "news"
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TVG"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/2025/02/20/566886ac-2564-4963-94c4-c5de132e9442/0220-cmo-sleep.jpg",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "durationInSeconds": 300,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "FHD",
+            "playId": "b4e78b7c-e1f4-4292-a3da-99a85d6abc37",
+            "availabilityStartTimeStamp": 1740063720000,
+            "availabilityEndTimeStamp": 1771607019000,
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            }
+          }
+        ]
+      },
+      "episodeInfo": {
+        "seriesId": "cbs-mornings",
+        "episodeNumber": "20250220150200"
+      }
+    },
+    {
+      "id": "158534ba-736c-4574-8d09-1219b8870aab",
+      "type": "episode",
+      "titles": [
+        {
+          "value": "Bon Appétit unveils best 8 pizza restaurants",
+          "language": "en"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "First on \"CBS Mornings,\" Bon Appétit reveals its list of eight pizzerias pushing the boundaries of pizza-making. We visit three standout spots to see—and taste—what makes them special.",
+          "language": "en"
+        }
+      ],
+      "releaseDate": "2025-02-20",
+      "genres": [
+        "news"
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TVG"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/2025/02/20/6b3fd31f-ce0a-467d-b6f2-47862dda8014/0220-cmo-pizza.jpg",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "durationInSeconds": 382,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "FHD",
+            "playId": "158534ba-736c-4574-8d09-1219b8870aab",
+            "availabilityStartTimeStamp": 1740063540000,
+            "availabilityEndTimeStamp": 1771607019000,
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            }
+          }
+        ]
+      },
+      "episodeInfo": {
+        "seriesId": "cbs-mornings",
+        "episodeNumber": "20250220145900"
+      }
+    }
+  ]
+}
