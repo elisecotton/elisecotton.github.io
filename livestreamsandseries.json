@@ -1,0 +1,691 @@
+{
+  "version": "1",
+  "defaultLanguage": "en",
+  "defaultAvailabilityCountries": [
+    "us"
+  ],
+  "assets": [
+    {
+      "id": "LET-189693494",
+      "type": "livestream",
+      "externalIds": [
+        {
+          "id": 104846,
+          "channelName": "CBS News 24/7",
+          "source": "GRACENOTE_STATION_ID"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "LET-189693494",
+            "license": "free",
+            "quality": "FHD"
+          }
+        ]
+      },
+      "tags": [
+        "CBS News"
+      ]
+    },
+    {
+      "id": "LET-189693531",
+      "type": "livestream",
+      "externalIds": [
+        {
+          "id": 123128,
+          "channelName": "CBS News Philadelphia",
+          "source": "GRACENOTE_STATION_ID"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "LET-189693531",
+            "license": "free",
+            "quality": "FHD"
+          }
+        ]
+      },
+      "tags": [
+        "CBS News"
+      ]
+    },
+    {
+      "id": "LET-189693487",
+      "type": "livestream",
+      "externalIds": [
+        {
+          "id": 123127,
+          "channelName": "CBS News Baltimore",
+          "source": "GRACENOTE_STATION_ID"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "LET-189693487",
+            "license": "free",
+            "quality": "FHD"
+          }
+        ]
+      },
+      "tags": [
+        "CBS News"
+      ]
+    },
+    {
+      "id": "LET-189693522",
+      "type": "livestream",
+      "externalIds": [
+        {
+          "id": 123121,
+          "channelName": "CBS News Bay Area",
+          "source": "GRACENOTE_STATION_ID"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "LET-189693522",
+            "license": "free",
+            "quality": "FHD"
+          }
+        ]
+      },
+      "tags": [
+        "CBS News"
+      ]
+    },
+    {
+      "id": "LET-189693523",
+      "type": "livestream",
+      "externalIds": [
+        {
+          "id": 123130,
+          "channelName": "CBS News Boston",
+          "source": "GRACENOTE_STATION_ID"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "LET-189693523",
+            "license": "free",
+            "quality": "FHD"
+          }
+        ]
+      },
+      "tags": [
+        "CBS News"
+      ]
+    },
+    {
+      "id": "LET-189693525",
+      "type": "livestream",
+      "externalIds": [
+        {
+          "id": 123122,
+          "channelName": "CBS News Chicago",
+          "source": "GRACENOTE_STATION_ID"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "LET-189693525",
+            "license": "free",
+            "quality": "FHD"
+          }
+        ]
+      },
+      "tags": [
+        "CBS News"
+      ]
+    },
+    {
+      "id": "LET-189693500",
+      "type": "livestream",
+      "externalIds": [
+        {
+          "id": 123120,
+          "channelName": "CBS News Colorado",
+          "source": "GRACENOTE_STATION_ID"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "LET-189693500",
+            "license": "free",
+            "quality": "FHD"
+          }
+        ]
+      },
+      "tags": [
+        "CBS News"
+      ]
+    },
+    {
+      "id": "LET-189693526",
+      "type": "livestream",
+      "externalIds": [
+        {
+          "id": 126738,
+          "channelName": "CBS News Detroit",
+          "source": "GRACENOTE_STATION_ID"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "LET-189693526",
+            "license": "free",
+            "quality": "FHD"
+          }
+        ]
+      },
+      "tags": [
+        "CBS News"
+      ]
+    },
+    {
+      "id": "LET-189693527",
+      "type": "livestream",
+      "externalIds": [
+        {
+          "id": 123126,
+          "channelName": "CBS News Los Angeles",
+          "source": "GRACENOTE_STATION_ID"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "LET-189693527",
+            "license": "free",
+            "quality": "FHD"
+          }
+        ]
+      },
+      "tags": [
+        "CBS News"
+      ]
+    },
+    {
+      "id": "LET-189693528",
+      "type": "livestream",
+      "externalIds": [
+        {
+          "id": 123380,
+          "channelName": "CBS News Miami",
+          "source": "GRACENOTE_STATION_ID"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "LET-189693528",
+            "license": "free",
+            "quality": "FHD"
+          }
+        ]
+      },
+      "tags": [
+        "CBS News"
+      ]
+    },
+    {
+      "id": "LET-189693529",
+      "type": "livestream",
+      "externalIds": [
+        {
+          "id": 123119,
+          "channelName": "CBS News Minnesota",
+          "source": "GRACENOTE_STATION_ID"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "LET-189693529",
+            "license": "free",
+            "quality": "FHD"
+          }
+        ]
+      },
+      "tags": [
+        "CBS News"
+      ]
+    },
+    {
+      "id": "LET-189693530",
+      "type": "livestream",
+      "externalIds": [
+        {
+          "id": 123125,
+          "channelName": "CBS News New York",
+          "source": "GRACENOTE_STATION_ID"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "LET-189693530",
+            "license": "free",
+            "quality": "FHD"
+          }
+        ]
+      },
+      "tags": [
+        "CBS News"
+      ]
+    },
+    {
+      "id": "LET-189693532",
+      "type": "livestream",
+      "externalIds": [
+        {
+          "id": 123129,
+          "channelName": "CBS News Pittsburgh",
+          "source": "GRACENOTE_STATION_ID"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "LET-189693532",
+            "license": "free",
+            "quality": "FHD"
+          }
+        ]
+      },
+      "tags": [
+        "CBS News"
+      ]
+    },
+    {
+      "id": "LET-189693533",
+      "type": "livestream",
+      "externalIds": [
+        {
+          "id": 123124,
+          "channelName": "CBS News Sacramento",
+          "source": "GRACENOTE_STATION_ID"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "LET-189693533",
+            "license": "free",
+            "quality": "FHD"
+          }
+        ]
+      },
+      "tags": [
+        "CBS News"
+      ]
+    },
+    {
+      "id": "LET-189693534",
+      "type": "livestream",
+      "externalIds": [
+        {
+          "id": 123123,
+          "channelName": "CBS News Texas",
+          "source": "GRACENOTE_STATION_ID"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "LET-189693534",
+            "license": "free",
+            "quality": "FHD"
+          }
+        ]
+      },
+      "tags": [
+        "CBS News"
+      ]
+    },
+    {
+      "id": "LET-189693536",
+      "type": "livestream",
+      "externalIds": [
+        {
+          "id": 130385,
+          "channelName": "Inside Edition 24/7",
+          "source": "GRACENOTE_STATION_ID"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "LET-189693536",
+            "license": "free",
+            "quality": "FHD"
+          }
+        ]
+      },
+      "tags": [
+        "CBS News"
+      ]
+    },
+    {
+      "id": "LET-189693535",
+      "type": "livestream",
+      "externalIds": [
+        {
+          "id": 110291,
+          "channelName": "ET: The Leader in Celebrity News",
+          "source": "GRACENOTE_STATION_ID"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "LET-189693535",
+            "license": "free",
+            "quality": "FHD"
+          }
+        ]
+      },
+      "tags": [
+        "CBS News"
+      ]
+    },
+    {
+      "id": "LET-189694114",
+      "type": "livestream",
+      "externalIds": [
+        {
+          "id": 148202,
+          "channelName": "Car Chase",
+          "source": "GRACENOTE_STATION_ID"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "LET-189694114",
+            "license": "free",
+            "quality": "FHD"
+          }
+        ]
+      },
+      "tags": [
+        "CBS News"
+      ]
+    },
+    {
+      "id": "e944df5c-c348-4204-b094-a1d53e8c6fef",
+      "type": "livestream",
+      "externalIds": [
+        {
+          "id": 108919,
+          "channelName": "CBS Sports HQ",
+          "source": "GRACENOTE_STATION_ID"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "e944df5c-c348-4204-b094-a1d53e8c6fef",
+            "license": "free",
+            "quality": "FHD"
+          }
+        ]
+      },
+      "tags": [
+        "CBS Sports"
+      ]
+    },
+    {
+      "id": "cbs-mornings",
+      "type": "series",
+      "titles": [
+        {
+          "value": "CBS Mornings",
+          "language": "en"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Get a jump on the latest news, and wake up with the most important domestic and international stories of the day.",
+          "language": "en"
+        }
+      ],
+      "releaseDate": "2025-02-20",
+      "genres": [
+        "news"
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TVG"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://sportshub.cbsistatic.com/i/2024/09/12/a69ff677-1f48-43dd-9c62-81ab452293b2/image-1726181003604.png",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "FHD",
+            "playId": "cbs-mornings",
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "cbs-evening-news",
+      "type": "series",
+      "titles": [
+        {
+          "value": "CBS Evening News",
+          "language": "en"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Weeknights 6:30pm ET on CBS, Streaming 10pm ET",
+          "language": "en"
+        }
+      ],
+      "releaseDate": "2025-02-19",
+      "genres": [
+        "news"
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TVG"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://sportshub.cbsistatic.com/i/2025/01/24/45149ac8-9bb5-4cf9-b858-a11802f9add9/image-1737759708249.png",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "FHD",
+            "playId": "cbs-evening-news",
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "america-decides",
+      "type": "series",
+      "titles": [
+        {
+          "value": "America Decides",
+          "language": "en"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "CBS News reporters meet with newsmakers from across the political spectrum to discuss new angles and share fact-based analysis.",
+          "language": "en"
+        }
+      ],
+      "releaseDate": "2025-02-19",
+      "genres": [
+        "news"
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TVG"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://sportshub.cbsistatic.com/i/2024/09/04/1da5d0b6-8fe3-4876-b89b-03f78412b9d5/image-1725485405816.png",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "FHD",
+            "playId": "america-decides",
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "60-minutes",
+      "type": "series",
+      "titles": [
+        {
+          "value": "60 Minutes",
+          "language": "en"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "America's #1 television news program, presents hard-hitting investigative reports, newsmaker interviews, and in-depth profiles.",
+          "language": "en"
+        }
+      ],
+      "releaseDate": "2025-02-17",
+      "genres": [
+        "news"
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TVG"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://sportshub.cbsistatic.com/i/2024/09/04/91d12f9c-8ae5-4bf5-a4b6-cc0c493959a0/image-1725485394061.png",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "FHD",
+            "playId": "60-minutes",
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "face-the-nation",
+      "type": "series",
+      "titles": [
+        {
+          "value": "Face the Nation",
+          "language": "en"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Face the Nation moderator Margaret Brennan delivers interviews with newsmakers, roundtable discussions, and analysis on the top issues of the day.",
+          "language": "en"
+        }
+      ],
+      "releaseDate": "2025-02-16",
+      "genres": [
+        "news"
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TVG"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://sportshub.cbsistatic.com/i/2024/09/04/d86cb7bc-3b76-4b5c-8976-605ffc6b04bd/image-1725485438069.png",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "FHD",
+            "playId": "face-the-nation",
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

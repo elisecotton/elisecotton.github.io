@@ -1,0 +1,446 @@
+{
+  "version": "1",
+  "defaultLanguage": "en",
+  "defaultAvailabilityCountries": [
+    "us"
+  ],
+  "assets": [
+    {
+      "id": "LET-189693494",
+      "type": "livestream",
+      "externalIds": [
+        {
+          "id": 104846,
+          "channelName": "CBS News 24/7",
+          "source": "GRACENOTE_STATION_ID"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "LET-189693494",
+            "license": "free",
+            "quality": "FHD"
+          }
+        ]
+      },
+      "tags": [
+        "CBS News"
+      ]
+    },
+    {
+      "id": "LET-189693531",
+      "type": "livestream",
+      "externalIds": [
+        {
+          "id": 123128,
+          "channelName": "CBS News Philadelphia",
+          "source": "GRACENOTE_STATION_ID"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "LET-189693531",
+            "license": "free",
+            "quality": "FHD"
+          }
+        ]
+      },
+      "tags": [
+        "CBS News"
+      ]
+    },
+    {
+      "id": "LET-189693487",
+      "type": "livestream",
+      "externalIds": [
+        {
+          "id": 123127,
+          "channelName": "CBS News Baltimore",
+          "source": "GRACENOTE_STATION_ID"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "LET-189693487",
+            "license": "free",
+            "quality": "FHD"
+          }
+        ]
+      },
+      "tags": [
+        "CBS News"
+      ]
+    },
+    {
+      "id": "LET-189693522",
+      "type": "livestream",
+      "externalIds": [
+        {
+          "id": 123121,
+          "channelName": "CBS News Bay Area",
+          "source": "GRACENOTE_STATION_ID"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "LET-189693522",
+            "license": "free",
+            "quality": "FHD"
+          }
+        ]
+      },
+      "tags": [
+        "CBS News"
+      ]
+    },
+    {
+      "id": "LET-189693523",
+      "type": "livestream",
+      "externalIds": [
+        {
+          "id": 123130,
+          "channelName": "CBS News Boston",
+          "source": "GRACENOTE_STATION_ID"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "LET-189693523",
+            "license": "free",
+            "quality": "FHD"
+          }
+        ]
+      },
+      "tags": [
+        "CBS News"
+      ]
+    },
+    {
+      "id": "LET-189693525",
+      "type": "livestream",
+      "externalIds": [
+        {
+          "id": 123122,
+          "channelName": "CBS News Chicago",
+          "source": "GRACENOTE_STATION_ID"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "LET-189693525",
+            "license": "free",
+            "quality": "FHD"
+          }
+        ]
+      },
+      "tags": [
+        "CBS News"
+      ]
+    },
+    {
+      "id": "LET-189693500",
+      "type": "livestream",
+      "externalIds": [
+        {
+          "id": 123120,
+          "channelName": "CBS News Colorado",
+          "source": "GRACENOTE_STATION_ID"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "LET-189693500",
+            "license": "free",
+            "quality": "FHD"
+          }
+        ]
+      },
+      "tags": [
+        "CBS News"
+      ]
+    },
+    {
+      "id": "LET-189693526",
+      "type": "livestream",
+      "externalIds": [
+        {
+          "id": 126738,
+          "channelName": "CBS News Detroit",
+          "source": "GRACENOTE_STATION_ID"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "LET-189693526",
+            "license": "free",
+            "quality": "FHD"
+          }
+        ]
+      },
+      "tags": [
+        "CBS News"
+      ]
+    },
+    {
+      "id": "LET-189693527",
+      "type": "livestream",
+      "externalIds": [
+        {
+          "id": 123126,
+          "channelName": "CBS News Los Angeles",
+          "source": "GRACENOTE_STATION_ID"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "LET-189693527",
+            "license": "free",
+            "quality": "FHD"
+          }
+        ]
+      },
+      "tags": [
+        "CBS News"
+      ]
+    },
+    {
+      "id": "LET-189693528",
+      "type": "livestream",
+      "externalIds": [
+        {
+          "id": 123380,
+          "channelName": "CBS News Miami",
+          "source": "GRACENOTE_STATION_ID"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "LET-189693528",
+            "license": "free",
+            "quality": "FHD"
+          }
+        ]
+      },
+      "tags": [
+        "CBS News"
+      ]
+    },
+    {
+      "id": "LET-189693529",
+      "type": "livestream",
+      "externalIds": [
+        {
+          "id": 123119,
+          "channelName": "CBS News Minnesota",
+          "source": "GRACENOTE_STATION_ID"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "LET-189693529",
+            "license": "free",
+            "quality": "FHD"
+          }
+        ]
+      },
+      "tags": [
+        "CBS News"
+      ]
+    },
+    {
+      "id": "LET-189693530",
+      "type": "livestream",
+      "externalIds": [
+        {
+          "id": 123125,
+          "channelName": "CBS News New York",
+          "source": "GRACENOTE_STATION_ID"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "LET-189693530",
+            "license": "free",
+            "quality": "FHD"
+          }
+        ]
+      },
+      "tags": [
+        "CBS News"
+      ]
+    },
+    {
+      "id": "LET-189693532",
+      "type": "livestream",
+      "externalIds": [
+        {
+          "id": 123129,
+          "channelName": "CBS News Pittsburgh",
+          "source": "GRACENOTE_STATION_ID"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "LET-189693532",
+            "license": "free",
+            "quality": "FHD"
+          }
+        ]
+      },
+      "tags": [
+        "CBS News"
+      ]
+    },
+    {
+      "id": "LET-189693533",
+      "type": "livestream",
+      "externalIds": [
+        {
+          "id": 123124,
+          "channelName": "CBS News Sacramento",
+          "source": "GRACENOTE_STATION_ID"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "LET-189693533",
+            "license": "free",
+            "quality": "FHD"
+          }
+        ]
+      },
+      "tags": [
+        "CBS News"
+      ]
+    },
+    {
+      "id": "LET-189693534",
+      "type": "livestream",
+      "externalIds": [
+        {
+          "id": 123123,
+          "channelName": "CBS News Texas",
+          "source": "GRACENOTE_STATION_ID"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "LET-189693534",
+            "license": "free",
+            "quality": "FHD"
+          }
+        ]
+      },
+      "tags": [
+        "CBS News"
+      ]
+    },
+    {
+      "id": "LET-189693536",
+      "type": "livestream",
+      "externalIds": [
+        {
+          "id": 130385,
+          "channelName": "Inside Edition 24/7",
+          "source": "GRACENOTE_STATION_ID"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "LET-189693536",
+            "license": "free",
+            "quality": "FHD"
+          }
+        ]
+      },
+      "tags": [
+        "CBS News"
+      ]
+    },
+    {
+      "id": "LET-189693535",
+      "type": "livestream",
+      "externalIds": [
+        {
+          "id": 110291,
+          "channelName": "ET: The Leader in Celebrity News",
+          "source": "GRACENOTE_STATION_ID"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "LET-189693535",
+            "license": "free",
+            "quality": "FHD"
+          }
+        ]
+      },
+      "tags": [
+        "CBS News"
+      ]
+    },
+    {
+      "id": "LET-189694114",
+      "type": "livestream",
+      "externalIds": [
+        {
+          "id": 148202,
+          "channelName": "Car Chase",
+          "source": "GRACENOTE_STATION_ID"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "LET-189694114",
+            "license": "free",
+            "quality": "FHD"
+          }
+        ]
+      },
+      "tags": [
+        "CBS News"
+      ]
+    },
+    {
+      "id": "e944df5c-c348-4204-b094-a1d53e8c6fef",
+      "type": "livestream",
+      "externalIds": [
+        {
+          "id": 108919,
+          "channelName": "CBS Sports HQ",
+          "source": "GRACENOTE_STATION_ID"
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "playId": "e944df5c-c348-4204-b094-a1d53e8c6fef",
+            "license": "free",
+            "quality": "FHD"
+          }
+        ]
+      },
+      "tags": [
+        "CBS Sports"
+      ]
+    }
+  ]
+}
