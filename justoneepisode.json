@@ -1,0 +1,114 @@
+{
+  "version": "1",
+  "defaultLanguage": "en",
+  "defaultAvailabilityCountries": [
+    "us"
+  ],
+  "assets": [
+    {
+      "id": "cbs-mornings",
+      "type": "series",
+      "titles": [
+        {
+          "value": "CBS Mornings",
+          "language": "en"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Get a jump on the latest news, and wake up with the most important domestic and international stories of the day.",
+          "language": "en"
+        }
+      ],
+      "releaseDate": "2025-02-20",
+      "genres": [
+        "news"
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TVG"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://sportshub.cbsistatic.com/i/2024/09/12/a69ff677-1f48-43dd-9c62-81ab452293b2/image-1726181003604.png",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "FHD",
+            "playId": "cbs-mornings",
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "987b9f2b-77bc-4fff-9934-e9312f32c490",
+      "type": "episode",
+      "titles": [
+        {
+          "value": "Transportation secretary says \"it's safe to fly, of course\"",
+          "language": "en"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "In a CBS News exclusive, U.S. Transportation Secretary Sean Duffy said people should not be afraid to fly amid a string of aviation incidents this year. He also called for quick investments in FAA systems.",
+          "language": "en"
+        }
+      ],
+      "releaseDate": "2025-02-20",
+      "genres": [
+        "news"
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value": "TVG"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/2025/02/20/90f35d73-93d8-4222-8ec5-8824083e1203/0220-cmo-duffy.jpg",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "durationInSeconds": 291,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "FHD",
+            "playId": "987b9f2b-77bc-4fff-9934-e9312f32c490",
+            "availabilityStartTimeStamp": 1740067560000,
+            "availabilityEndTimeStamp": 1771608220000,
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            }
+          }
+        ]
+      },
+      "episodeInfo": {
+        "seriesId": "cbs-mornings",
+        "episodeNumber": 20250220160600
+      }
+    }
+  ]
+}
