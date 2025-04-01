@@ -1,0 +1,167 @@
+{
+    "version": "1",
+    "defaultLanguage": "en",
+    "defaultAvailabilityCountries": [
+        "us"
+    ],
+    "assets": [
+
+        {
+            "id": "cbs-reports",
+            "type": "series",
+            "titles": [
+                {
+                    "value": "CBS Reports",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "shortDescriptions": [
+                {
+                    "value": "CBS Reports",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "releaseDate": "2025-03-09",
+            "genres": [
+                "news"
+            ],
+            "advisoryRatings": [
+                {
+                    "source": "USA_PR",
+                    "value": "TVG"
+                }
+            ],
+            "images": [
+                {
+                    "type": "main",
+                    "url": "https://sportshub.cbsistatic.com/i/2024/09/04/b3f264cc-c199-434e-9607-0960b230e903/image-1725485490161.png",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "content": {
+                "playOptions": [
+                    {
+                        "license": "free",
+                        "quality": "FHD",
+                        "playId": "cbs-reports",
+                        "availabilityInfo": {
+                            "country": [
+                                "us"
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "id": "cbs-reports-season-10",
+            "type": "season",
+            "titles": [
+                {
+                    "value": "CBS Reports - Season 10",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "shortDescriptions": [
+                {
+                    "value": "CBS Reports",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "releaseDate": "2025-03-09",
+            "genres": [
+                "news"
+            ],
+            "advisoryRatings": [
+                {
+                    "source": "USA_PR",
+                    "value": "TVG"
+                }
+            ],
+            "images": [
+                {
+                    "type": "main",
+                    "url": "https://sportshub.cbsistatic.com/i/2024/09/04/b3f264cc-c199-434e-9607-0960b230e903/image-1725485490161.png",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "seasonInfo": {
+                "seriesId": "cbs-reports",
+                "seasonNumber": 10
+            }
+        },
+        {
+            "id": "3aa94a7a-0d38-4940-a51b-2fffada78931",
+            "type": "episode",
+            "titles": [
+                {
+                    "value": "The Price of Milk: Immigrants Behind American Dairy | CBS Reports",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "shortDescriptions": [
+                {
+                    "value": "The economy and immigration are two of the biggest issues on the minds of Americans, but we rarely get a look behind the scenes to see how these key forces in American life intersect. CBS News Race & Culture and CBS Reports reveal the connection between immigration and food prices by following the journey of the people, both legal and undocumented, bringing America's milk to market.",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "releaseDate": "2025-03-09",
+            "genres": [
+                "news"
+            ],
+            "advisoryRatings": [
+                {
+                    "source": "USA_PR",
+                    "value": "TVG"
+                }
+            ],
+            "images": [
+                {
+                    "type": "main",
+                    "url": "https://assets1.cbsnewsstatic.com/hub/i/2025/03/09/445ab773-7d31-4fb0-a707-198327ff449d/0309-cbsreports-milk-dotcom-3592575-640x360.jpg",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "durationInSeconds": 2600,
+            "content": {
+                "playOptions": [
+                    {
+                        "license": "free",
+                        "quality": "FHD",
+                        "playId": "3aa94a7a-0d38-4940-a51b-2fffada78931",
+                        "availabilityStartTimeStamp": 1741528800000,
+                        "availabilityEndTimeStamp": 4733528400000,
+                        "availabilityInfo": {
+                            "country": [
+                                "us"
+                            ]
+                        }
+                    }
+                ]
+            },
+            "episodeInfo": {
+                "seriesId": "cbs-reports",
+                "seasonNumber": 10,
+                "episodeNumber": 1
+            }
+        }
+    ]
+}
